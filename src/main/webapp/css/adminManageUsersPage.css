@@ -1,0 +1,13 @@
+.users-action-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95px;
+    margin: 0 auto;
+}
+
+.users-action-last{
+    width: 25px;
+    font-size: 20px;
+    margin: 0 auto;
+}

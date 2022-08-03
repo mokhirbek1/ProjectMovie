@@ -1,0 +1,65 @@
+.movie-registration {
+    width: 380px;
+    height: 630px;
+    margin: 30px auto;
+    border-radius: 10px;
+    border: 1px #006dff;
+    box-shadow: 0 0 5px rgb(41, 87, 155);
+    text-align: center;
+}
+.movie-registration-title{
+    width: 50%;
+    margin: 10px auto;
+}
+
+.movie-registration-form{
+    width: 80%;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.movie-registration-input {
+    width: 100%;
+    height: 35px;
+    margin: 5px auto;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgb(0 0 0 / 20%);
+    border: 1px white;
+    outline: none;
+}
+
+
+.movie-registration-input::placeholder{
+    color: #a4a4a4;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.movie-registration-textarea{
+    width: 100%;
+    height: 160px;
+    margin: 10px auto;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgb(0 0 0 / 20%);
+    border: 1px white;
+    outline: none;
+}
+
+.movie-registration-textarea::placeholder{
+    color: #a4a4a4;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.movie-registration-btn{
+    margin-top: 30px;
+}
+
+.input-group>.form-control, .input-group>.form-floating, .input-group>.form-select {
+    color: #a4a4a4;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 15px;
+}
